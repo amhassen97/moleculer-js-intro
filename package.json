@@ -1,0 +1,17 @@
+{
+    "name": "moleculer-js-intro",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "type": "module",
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "moleculer": "^0.14.33",
+        "uuid": "^9.0.1"
+    }
+}
